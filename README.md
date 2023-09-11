@@ -4,6 +4,11 @@
 
 #### As a Full-Stack Development Engineer with a deign background, experienced with HTML, JavaScript, React, Ruby on Rails and SQL databases. I know the language (literally) and understand how to use it to make things work. Pair this with my knowledge in UX/UI and design to optimize the experience for the user.
 
+###
+
+- 🌱 I’m currently learning Typescript
+- 📫 You can reach me at: carriemiskin@gmail.com
+
 ## Skills
 
 ###
@@ -23,11 +28,6 @@
 - Adobe Suite
 - UX UI
 - Web Design
-
-###
-
-- 🌱 I’m currently learning Typescript
-- 📫 You can reach me at: carriemiskin@gmail.com
 
 <!--
 **cmiskin1993/cmiskin1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
