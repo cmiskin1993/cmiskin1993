@@ -1,8 +1,28 @@
-# < Hello World! 👋/>
+# < Hello World! 👋 />
 
 ## Full Stack Developer | Software Engineering | Web Developer
 
 #### As a Full-Stack Development Engineer with a deign background, experienced with HTML, JavaScript, React, Ruby on Rails and SQL databases. I know the language (literally) and understand how to use it to make things work. Pair this with my knowledge in UX/UI and design to optimize the experience for the user.
+
+## Skills
+
+###
+
+- Javascript
+- REACT
+- Ruby on Rails
+- SQL
+- HTML CSS
+
+## Tools
+
+###
+
+- SKETCH
+- FIGMA
+- Adobe Suite
+- UX UI
+- Web Design
 
 ###
 
